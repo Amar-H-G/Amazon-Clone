@@ -20,7 +20,7 @@ function totalDisplay() {
     function displaySliderImage() {
         
         // collectAllData();
-        const sliderElement = document.querySelector(".scrollBar");
+        const sliderElement = document.querySelector(".header-slider");
         // Put into the html
         console.log(sliderElement)
         let newUL = document.createElement('ul')
