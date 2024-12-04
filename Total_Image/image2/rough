@@ -1,0 +1,103 @@
+// <!-- <h3>Free international returns</h3>
+//                 <img src="image2/box1-1.jpg" alt="">
+//                 <a href="/">Shop More</a> -->
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let innerHTML = ``;
+// let totalHtml = document.querySelectorAll('.total');
+// totalHtml.innerHTML = ``;
+
+// let innerHTML = ``;
+// let sliderImage = document.querySelector('.header-slider ul.header-slider-image');
+
+// slider.forEach((item) => {
+//     innerHTML += `<img src="${item.image_slide}" class="header-img" alt="">`;
+// })
+// sliderImage.innerHTML = innerHTML;
+// let boxElement = document.querySelectorAll('.box-column');
+// innerHTML = ``;
+// boxItemColumn.forEach((items) => {
+//     innerHTML += `
+//     <h3>${items.box_name}</h3>
+//     <img src="${items.box_image}" alt="">
+//     <a href="/">Shop More</a> `;
+// });
+// boxElement.innerHTML = innerHTML;
+
+
+// const prev_btn = document.querySelector('.controll_prev');
+// prev_btn.innerHTML = `<a href="#" class="controll_prev">&#129144</a>`;
+// const next_btn = document.querySelector('.controll_next');
+// next_btn.innerHTML = `<a href="#" class="controll_next">&#129146</a>`;
+
+// let n = 0;
+
+// function changeSlide() {
+//     for (let i = 0; i < imgs.length; i++) {
+//         imgs[i].style.display = 'none';
+//     }
+//     imgs[n].style.display = 'block';
+// }
+// changeSlide();
+// prev_btn.addEventListener('click', (e) => {
+//     if (n > 0) {
+//         n--;
+//     }
+//     else {
+//         n = imgs.length - 1;
+//     }
+//     changeSlide();
+// })
+// next_btn.addEventListener('click', (e) => {
+//     if (n < imgs.length - 1) {
+//         n++;
+//     }
+//     else {
+//         n = 0;
+//     }
+//     changeSlide();
+// })
+// const scrollContainer = document.querySelectorAll('.products');
+// for (const item of scrollContainer) {
+//     item.addEventListener('wheel', (evt) => {
+//         evt.preventDefault();
+//         item.scrollLeft += evt.deltaY;
+//     });
+// };
+// <div class='items-container'>
+// </div>
+// let boxElement = document.querySelectorAll('.box-column');
+// innerHTML = '';
+// boxItemColumn.forEach((item) => {
+// innerHTML += `<h3>${item.box_name}</h3>
+// <img src="${item.box_image}" alt="">
+// <a href="/">Shop More</a>`;
+// })
+// boxElement.innerHTML = innerHTML;

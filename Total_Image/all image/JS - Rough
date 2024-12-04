@@ -1,0 +1,731 @@
+<nav class="nav_bar">
+    <div class="bar">
+        <span class="Earning"><a href="#">Earning</a></span>
+        <span class="Help"><a href="#">Help</a></span>
+        <span class="settings"><a href="#"><i class="fa-solid fa-gear"></i></a></span>
+    </div>
+</nav>
+`<div class="header-slider">
+    <div class="scrollBar">
+        <a href="#" class="controll_prev">&#129144</a>
+        <a href="#" class="controll_next">&#129146</a>
+    </div>`
+    Object.keys(item).forEach(key => {
+    innerHTML += `<ul class="header-slider-image">
+        <img src="${key.image_slide}" class="header-img" alt="">
+    </ul>`
+    });
+
+
+
+    <div class="header-slider">
+        <div class="scrollBar">
+            <a href="#" class="controll_prev">&#129144</a>
+            <a href="#" class="controll_next">&#129146</a>
+        </div>
+
+
+
+
+//product page
+<div class="pic">
+    <img src="https://m.media-amazon.com/images/I/41eNv6-C5EL._SX679_.jpg" alt="">
+</div>
+<div class="itemInformation">
+    <a href="#" class="firstLink">Visit the SELLORIA Store</a>
+    <span class="itemName">SELLORIA Plain Baseball Sport Cap Men's Baseball Head Hat Stylish All Sports Caps with Adjustable Strap Pack of 1</span>
+</div>
+<div class="cardWithBuy">
+    <span class="amount">₹149.00</span>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        innerHTML += `<div class="header-slider">
+
+            // <div class="scrollBar">
+                // <a href="#" class="controll_prev">&#129144</a>
+                // <a href="#" class="controll_next">&#129146</a>
+                // </div>
+            // <ul class="header-slider-image">
+                // <img src="image2/header1.jpg" class="header-img" alt="">
+                // </ul>
+            // </div>
+        // <div class="bos-row header-box">
+
+            // <div class="box-column">
+                // <h3>Free international returns</h3>
+                // <img src="image2/box1-1.jpg" alt="">
+                // <a href="/">Shop More</a>
+                // </div>
+            // <div class="box-column">
+                // <h3>Lunar New Year</h3>
+                // <img src="image2/box1-2.jpg" alt="">
+                // <a href="/">Shop More</a>
+                // </div>
+            // <div class="box-column">
+                // <h3>Toy under $25</h3>
+                // <img src="image2/box1-3.jpg" alt="">
+                // <a href="/">Shop More</a>
+                // </div>
+            // <div class="box-column">
+                // <h3>Deals in PCs</h3>
+                // <img src="image2/box1-4.jpg" alt="">
+                // <a href="/">Shop More</a>
+                // </div>
+            // </div>
+
+        // <div class="bos-row">
+            // <div class="box-column">
+                // <h3>Grooming Products</h3>
+                // <img src="image2/box2-1.jpg" alt="">
+                // <a href="/">Shop More</a>
+                // </div>
+            // <div class="box-column">
+                // <h3>Latest Devices</h3>
+                // <img src="image2/box2-2.jpg" alt="">
+                // <a href="/">Shop More</a>
+                // </div>
+            // <div class="box-column">
+                // <h3>Pets Food</h3>
+                // <img src="image2/box2-3.jpg" alt="">
+                // <a href="/">Shop More</a>
+                // </div>
+            // <div class="box-column">
+                // <h3>Fashion Mart</h3>
+                // <img src="image2/box2-4.jpg" alt="">
+                // <a href="/">Shop More</a>
+                // </div>
+            // </div>
+
+        // <div class="products-slider">
+            // <h2>Best Sellers in Sports & Outdoors</h2>
+            // <div class="products">
+                // <img src="image2/product1-1.jpg" alt="">
+                // <img src="image2/product1-2.jpg" alt="">
+                // <img src="image2/product1-3.jpg" alt="">
+                // <img src="image2/product1-4.jpg" alt="">
+                // <img src="image2/product1-5.jpg" alt="">
+                // <img src="image2/product1-6.jpg" alt="">
+                // <img src="image2/product1-7.jpg" alt="">
+                // <img src="image2/product1-8.jpg" alt="">
+                // <img src="image2/product1-9.jpg" alt="">
+                // <img src="image2/product1-10.jpg" alt="">
+                // </div>
+            // </div>
+
+        // <div class="bos-row">
+            // <div class="box-column">
+                // <h3>Stationary</h3>
+                // <img src="image2/box3-1.jpg" alt="">
+                // <a href="/">Shop More</a>
+                // </div>
+            // <div class="box-column">
+                // <h3>Laptops for study</h3>
+                // <img src="image2/box3-2.jpg" alt="">
+                // <a href="/">Shop More</a>
+                // </div>
+            // <div class="box-column">
+                // <h3>Office Chairs</h3>
+                // <img src="image2/box3-3.jpg" alt="">
+                // <a href="/">Shop More</a>
+                // </div>
+            // <div class="box-column">
+                // <h3>Gaming Moniter</h3>
+                // <img src="image2/box3-4.jpg" alt="">
+                // <a href="/">Shop More</a>
+                // </div>
+            // </div>
+
+        // <div class="products-slider-with-price">
+            // <h2>Deals Under $25</h2>
+            // <div class="products">
+                // <div class="product-card">
+                    // <div class="product-img-container">
+                        // <img src="image2/product2-1.jpg" alt="">
+                        // </div>
+                    // <div class="product-offer">
+                        // <p>27% off</p><span>Deal</span>
+                        // </div>
+                    // <p class="product-price">$ <span>14.49</span> List Price:$19.95</p>
+                    // <h4>This product is best for you</h4>
+                    // </div>
+                // <div class="product-card">
+                    // <div class="product-img-container">
+                        // <img src="image2/product2-2.jpg" alt="">
+                        // </div>
+                    // <div class="product-offer">
+                        // <p>27% off</p><span>Deal</span>
+                        // </div>
+                    // <p class="product-price">$ <span>14.49</span> List Price:$19.95</p>
+                    // <h4>This product is best for you</h4>
+                    // </div>
+                // <div class="product-card">
+                    // <div class="product-img-container">
+                        // <img src="image2/product2-3.jpg" alt="">
+                        // </div>
+                    // <div class="product-offer">
+                        // <p>27% off</p><span>Deal</span>
+                        // </div>
+                    // <p class="product-price">$ <span>14.49</span> List Price:$19.95</p>
+                    // <h4>This product is best for you</h4>
+                    // </div>
+                // <div class="product-card">
+                    // <div class="product-img-container">
+                        // <img src="image2/product2-4.jpg" alt="">
+                        // </div>
+                    // <div class="product-offer">
+                        // <p>27% off</p><span>Deal</span>
+                        // </div>
+                    // <p class="product-price">$ <span>14.49</span> List Price:$19.95</p>
+                    // <h4>This product is best for you</h4>
+                    // </div>
+                // <div class="product-card">
+                    // <div class="product-img-container">
+                        // <img src="image2/product2-5.jpg" alt="">
+                        // </div>
+                    // <div class="product-offer">
+                        // <p>27% off</p><span>Deal</span>
+                        // </div>
+                    // <p class="product-price">$ <span>14.49</span> List Price:$19.95</p>
+                    // <h4>This product is best for you</h4>
+                    // </div>
+                // <div class="product-card">
+                    // <div class="product-img-container">
+                        // <img src="image2/product2-6.jpg" alt="">
+                        // </div>
+                    // <div class="product-offer">
+                        // <p>27% off</p><span>Deal</span>
+                        // </div>
+                    // <p class="product-price">$ <span>14.49</span> List Price:$19.95</p>
+                    // <h4>This product is best for you</h4>
+                    // </div>
+                // <div class="product-card">
+                    // <div class="product-img-container">
+                        // <img src="image2/product2-7.jpg" alt="">
+                        // </div>
+                    // <div class="product-offer">
+                        // <p>27% off</p><span>Deal</span>
+                        // </div>
+                    // <p class="product-price">$ <span>14.49</span> List Price:$19.95</p>
+                    // <h4>This product is best for you</h4>
+                    // </div>
+                // <div class="product-card">
+                    // <div class="product-img-container">
+                        // <img src="image2/product2-8.jpg" alt="">
+                        // </div>
+                    // <div class="product-offer">
+                        // <p>27% off</p><span>Deal</span>
+                        // </div>
+                    // <p class="product-price">$ <span>14.49</span> List Price:$19.95</p>
+                    // <h4>This product is best for you</h4>
+                    // </div>
+                // <div class="product-card">
+                    // <div class="product-img-container">
+                        // <img src="image2/product2-9.jpg" alt="">
+                        // </div>
+                    // <div class="product-offer">
+                        // <p>27% off</p><span>Deal</span>
+                        // </div>
+                    // <p class="product-price">$ <span>14.49</span> List Price:$19.95</p>
+                    // <h4>This product is best for you</h4>
+                    // </div>
+                // <div class="product-card">
+                    // <div class="product-img-container">
+                        // <img src="image2/product2-10.jpg" alt="">
+                        // </div>
+                    // <div class="product-offer">
+                        // <p>27% off</p><span>Deal</span>
+                        // </div>
+                    // <p class="product-price">$ <span>14.49</span> List Price:$19.95</p>
+                    // <h4>This product is best for you</h4>
+                    // </div>
+                // <div class="product-card">
+                    // <div class="product-img-container">
+                        // <img src="image2/product2-11.jpg" alt="">
+                        // </div>
+                    // <div class="product-offer">
+                        // <p>27% off</p><span>Deal</span>
+                        // </div>
+                    // <p class="product-price">$ <span>14.49</span> List Price:$19.95</p>
+                    // <h4>This product is best for you</h4>
+                    // </div>
+                // <div class="product-card">
+                    // <div class="product-img-container">
+                        // <img src="image2/product2-12.jpg" alt="">
+                        // </div>
+                    // <div class="product-offer">
+                        // <p>27% off</p><span>Deal</span>
+                        // </div>
+                    // <p class="product-price">$ <span>14.49</span> List Price:$19.95</p>
+                    // <h4>This product is best for you</h4>
+                    // </div>
+                // </div>
+            // </div>
+
+        // <div class="products-slider">
+            // <h2>Best Sellers in Sports & Outdoors</h2>
+            // <div class="products">
+                // <img src="image2/product1-1.jpg" alt="">
+                // <img src="image2/product1-2.jpg" alt="">
+                // <img src="image2/product1-3.jpg" alt="">
+                // <img src="image2/product1-4.jpg" alt="">
+                // <img src="image2/product1-5.jpg" alt="">
+                // <img src="image2/product1-6.jpg" alt="">
+                // <img src="image2/product1-7.jpg" alt="">
+                // <img src="image2/product1-8.jpg" alt="">
+                // <img src="image2/product1-9.jpg" alt="">
+                // <img src="image2/product1-10.jpg" alt="">
+                // </div>
+            // </div>
+
+        // <div class="bos-row">
+            // <div class="box-column">
+                // <h3>Grooming Products</h3>
+                // <img src="image2/box2-1.jpg" alt="">
+                // <a href="/">Shop More</a>
+                // </div>
+            // <div class="box-column">
+                // <h3>Latest Devices</h3>
+                // <img src="image2/box2-2.jpg" alt="">
+                // <a href="/">Shop More</a>
+                // </div>
+            // <div class="box-column">
+                // <h3>Pets Food</h3>
+                // <img src="image2/box2-3.jpg" alt="">
+                // <a href="/">Shop More</a>
+                // </div>
+            // <div class="box-column">
+                // <h3>Fashion Mart</h3>
+                // <img src="image2/box2-4.jpg" alt="">
+                // <a href="/">Shop More</a>
+                // </div>
+            // </div>`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            // let itemContainer = document.querySelectorAll('.total');
+// function slideShow() {
+//     let headerSlider = document.querySelector('.header-slider');
+// }
+// let innerHTML = '';
+// allData.forEach(item => {
+//     if (item.slider) {
+//         item.slider.forEach(data => {
+//             let headerSlider = document.querySelector('.header-slider');
+//             headerSlider.innerHTML += `
+//             <div class="scrollBar">
+//             <a href="#" class="controll_prev">&#129144</a>
+//           <a href="#" class="controll_next">&#129146</a>
+//      </div>
+//     <ul class="header-slider-image">
+// <img src="${data.image_slide}" class="header-img" alt="">
+// </ul>`
+//         });
+//     }
+//     // if (item.boxItemColumn) {
+//     //     item.boxItemColumn.forEach(data => {
+//     //         innerHTML += `
+//     //         <div class="bos-row header-box">
+//     //         <div class="box-column">
+//     //         <h3>${data.box_name}</h3>
+//     //         <img src="${data.box_image}" alt="">
+//     //         <a href="/">Shop More</a>
+//     //         </div> </div>`;
+//     //     });
+//     // }
+//     // if (item.boxItemRow) {
+//     //     item.boxItemRow.forEach(data => {
+//     //         innerHTML += `
+//     //     <div class="bos-row">
+//     //     <div class="box-column">
+//     //         <h3>${data.box_name}</h3>
+//     //         <img src="${data.box_image}" alt="">
+//     //         <a href="/">Shop More</a>
+//     //         </div></div>`;
+//     //     });
+//     // }
+// });
+// headerSlider.innerHTML = innerHTML;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <button href="#" class="controll_prev" onclick="prevButton()">&#129144</button>
+                    <button href="#" class="controll_next" onclick="nextButton()">&#129146</button> -->
+
+
+
+
+
+                    //Java script
+                    
+function onLoad() {
+    displaySliderImage();
+    boxElement();
+    boxElement1();
+    productsSlider();
+    boxRow2();
+    productsSliderWithPrice();
+    productsSlider2();
+    boxElement2();
+    productsSlider3();
+    moreAccessories();
+}
+function displaySliderImage() {
+    // collectAllData();
+    const sliderElement = document.querySelector(".header-slider");
+    // Put into the html
+    let newUL = document.createElement('ul')
+    newUL.className = "header-slider-image";
+    sliderElement.appendChild(newUL);
+    allData.forEach(item => {
+        if (item.slider) {
+            item.slider.forEach(data => {
+                let imgElement = document.createElement('img')
+                imgElement.className = "header-img";
+                newUL.appendChild(imgElement);
+                imgElement.alt = "";
+                imgElement.src = data.image_slide;
+            });
+        }
+    });
+    button();
+    
+}
+function button() {
+    let imagesAll = document.querySelectorAll('.header-img');
+    let imageLength = imagesAll.length;
+    let num = 0;
+    function showSlides() {
+        imagesAll.forEach((image, index) => {
+            if (index == num) {
+                image.style.display = "block";
+            }
+            else {
+                image.style.display = "none";
+            }
+        })
+    }
+    showSlides();
+    function prevButton() {
+        let prevButton = document.querySelectorAll('.controll_prev');
+        num--;
+        if (num < 0) {
+            num = imageLength - 1;
+        }
+        showSlides()
+    }
+    function nextButton() {
+        let nextButton = document.querySelectorAll('.controll_next');
+        num++;
+        if (num == imageLength - 1) {
+            num = 0;
+        }
+        showSlides()
+    }
+    function tap() {
+        let tapButton = document.querySelector('.header-slider .scrollBar');
+        const prevBtn = document.createElement('button')
+        prevBtn.className = "controll_prev";
+        prevBtn.innerHTML = '&#129144';
+        prevBtn.onclick = prevButton;
+        tapButton.appendChild(prevBtn);
+        const nextBtn = document.createElement('button')
+        nextBtn.className = "controll_next";
+        nextBtn.innerHTML = '&#129146';
+        nextBtn.onclick = nextButton;
+        tapButton.appendChild(nextBtn);
+    }
+    tap();
+}
+// Second box of the Amazon
+function boxElement() {
+    const boxElement = document.querySelector(".bos-row.header-box");
+    allData.forEach(item => {
+        if (item.boxItemColumn) {
+            item.boxItemColumn.forEach(data => {
+                let divElement = document.createElement('div')
+                let nameHeader = document.createElement('h3')
+                let imgElement = document.createElement('img')
+                let anchour = document.createElement('a')
+                divElement.className = "box-column";
+                nameHeader.innerText = data.box_name;
+                boxElement.appendChild(divElement);
+                divElement.appendChild(nameHeader);
+                divElement.appendChild(imgElement);
+                divElement.appendChild(anchour);
+                imgElement.src = data.box_image;
+                imgElement.alt = "";
+                anchour.href = data.link;
+                anchour.textContent = "Shop More";
+            });
+        }
+    });
+
+}
+// Third box on the Amazon App
+function boxElement1() {
+    const boxElement = document.querySelector(".box1-row");
+    allData.forEach(item => {
+        if (item.boxItemRow) {
+            item.boxItemRow.forEach(data => {
+                let divElement = document.createElement('div')
+                let nameHeader = document.createElement('h3')
+                let imgElement = document.createElement('img')
+                let anchour = document.createElement('a')
+                boxElement.appendChild(divElement);
+                divElement.appendChild(nameHeader);
+                divElement.appendChild(imgElement);
+                divElement.appendChild(anchour);
+                divElement.className = "box-column";
+                nameHeader.innerText = data.box_name;
+                imgElement.src = data.box_image;
+                imgElement.alt = "";
+                anchour.href = data.link;
+                anchour.textContent = "Shop More";
+            });
+        }
+    });
+
+}
+//Fourth Boxex in the Amazon App
+function productsSlider() {
+    const boxElement = document.querySelector(".products-slider");
+    let nameHeader = document.createElement('h2')
+    let divElement = document.createElement('div')
+    boxElement.appendChild(nameHeader);
+    boxElement.appendChild(divElement);
+    divElement.className = "products";
+    nameHeader.innerText = "Best Sellers in Sports & Outdoors";
+    allData.forEach(item => {
+        if (item.productSlider) {
+            item.productSlider.forEach(data => {
+                let imgElement = document.createElement('img')
+                divElement.appendChild(imgElement);
+                imgElement.src = data.product_Image;
+                imgElement.alt = "";
+            });
+        }
+    });
+}
+//Fifth Box in The Amazon App
+function boxRow2() {
+    const boxElement = document.querySelector(".box2-row");
+    allData.forEach(item => {
+        if (item.boxItemRow2) {
+            item.boxItemRow2.forEach(data => {
+                let divElement = document.createElement('div')
+                let nameHeader = document.createElement('h3')
+                let imgElement = document.createElement('img')
+                let anchour = document.createElement('a')
+                divElement.className = "box-column";
+                nameHeader.innerText = data.box_name;
+                boxElement.appendChild(divElement);
+                divElement.appendChild(nameHeader);
+                divElement.appendChild(imgElement);
+                divElement.appendChild(anchour);
+                imgElement.src = data.box_image;
+                imgElement.alt = "";
+                anchour.href = data.link;
+                anchour.textContent = "Shop More";
+            });
+        }
+    });
+
+
+}
+function productsSliderWithPrice() {
+    const productElement = document.querySelector('.productsSliderWithPrice .products');
+    // let nameHeader = document.createElement('h2')
+    // let divElement = document.createElement('div')
+    // boxElement.appendChild(nameHeader);
+    // boxElement.appendChild(divElement);
+    // divElement.className = "products";
+    // nameHeader.innerText = "Deals Under $25";
+    allData.forEach(item => {
+        if (item.productsSliderWithPrice) {
+            item.productsSliderWithPrice.forEach(data => {
+                let productCard = document.createElement('div')
+                productCard.className = "product-card";
+
+                let imageContainer = document.createElement('div')
+                imageContainer.className = "product-img-container";
+                let imgElement = document.createElement('img')
+                imageContainer.appendChild(imgElement);
+                imgElement.src = data.box_image;
+                imgElement.alt = "";
+
+                let productOffer = document.createElement('div')
+                productOffer.className = "product-offer";
+                let offer = document.createElement('p')
+                productOffer.appendChild(offer);
+                offer.innerText = data.item_Offer;
+                let Deal = document.createElement('span')
+                productOffer.appendChild(Deal);
+                Deal.innerText = " Deal";
+
+                let paragraph = document.createElement('p')
+                paragraph.className = "product-price";
+                let justPrice = document.createElement('span')
+                paragraph.appendChild(justPrice)
+                // justPrice.innerText = data.prevListPrice;
+                paragraph.innerText = "$" + data.prevListPrice + " " + "ListPrice:" + data.ListPrice;
+                let shortHeading = document.createElement('h4')
+                shortHeading.innerText = "This product is best for you";
+                // Append Part---
+                // divElement.appendChild(productCard)
+                // boxElement.appendChild(productCard);
+                productCard.appendChild(imageContainer);
+                productCard.appendChild(productOffer);
+                productCard.appendChild(paragraph);
+                productCard.appendChild(shortHeading);
+                productElement.appendChild(productCard);
+                // let imgElement = document.createElement('img')
+                // divElement.appendChild(imgElement);
+                // imgElement.src = data.product_Image;
+                // imgElement.alt = "";
+            });
+            // productElement.appendChild(productCard); 
+        }
+    });
+}
+function productsSlider2() {
+    const boxElement = document.querySelector(".productsSlider2");
+    let nameHeader = document.createElement('h2')
+    let divElement = document.createElement('div')
+    boxElement.appendChild(nameHeader);
+    boxElement.appendChild(divElement);
+    divElement.className = "products";
+    nameHeader.innerText = "Best Sellers in Home Accessories";
+    allData.forEach(item => {
+        if (item.productSlider2) {
+            item.productSlider2.forEach(data => {
+                let imgElement = document.createElement('img')
+                divElement.appendChild(imgElement);
+                imgElement.src = data.product_Image;
+                imgElement.alt = "";
+            });
+        }
+    });
+
+}
+function boxElement2() {
+    const boxElement = document.querySelector(".boxElement");
+    allData.forEach(item => {
+        if (item.boxItemRow3) {
+            item.boxItemRow3.forEach(data => {
+                let divElement = document.createElement('div')
+                let nameHeader = document.createElement('h3')
+                let imgElement = document.createElement('img')
+                let anchour = document.createElement('a')
+                boxElement.appendChild(divElement);
+                divElement.appendChild(nameHeader);
+                divElement.appendChild(imgElement);
+                divElement.appendChild(anchour);
+                divElement.className = "box-column";
+                nameHeader.innerText = data.box_name;
+                imgElement.src = data.box_image;
+                imgElement.alt = "";
+                anchour.href = data.link;
+                anchour.textContent = "Shop More";
+            });
+        }
+    });
+
+}
+function productsSlider3() {
+    const boxElement = document.querySelector(".productsSlider3");
+    let nameHeader = document.createElement('h2')
+    let divElement = document.createElement('div')
+    boxElement.appendChild(nameHeader);
+    boxElement.appendChild(divElement);
+    divElement.className = "products";
+    nameHeader.innerText = "Bags & Trolly";
+    allData.forEach(item => {
+        if (item.productSlider3) {
+            item.productSlider3.forEach(data => {
+                let imgElement = document.createElement('img')
+                divElement.appendChild(imgElement);
+                imgElement.src = data.product_Image;
+                imgElement.alt = "";
+            });
+        }
+    });
+
+}
+function moreAccessories() {
+    const boxElement = document.querySelector(".moreAccessories");
+    let nameHeader = document.createElement('h2')
+    let divElement = document.createElement('div')
+    boxElement.appendChild(nameHeader);
+    boxElement.appendChild(divElement);
+    divElement.className = "products";
+    nameHeader.innerText = "Shoes, Watch & Jwellary";
+    allData.forEach(item => {
+        if (item.moreAccessories) {
+            item.moreAccessories.forEach(data => {
+                let imgElement = document.createElement('img')
+                divElement.appendChild(imgElement);
+                imgElement.src = data.product_Image;
+                imgElement.alt = "";
+            });
+        }
+    });
+}
