@@ -22,14 +22,11 @@ function totalDisplay() {
         // collectAllData();
         const sliderElement = document.querySelector(".header-slider");
         // Put into the html
-        console.log(sliderElement)
         let newUL = document.createElement('ul')
         newUL.className = "header-slider-image";
         sliderElement.appendChild(newUL);
-        allData.forEach(item => {
-            console.log(item)
+        allData.forEach(item => 
             if (item.slider) {
-                console.log(item.slider)
                 item.slider.forEach(data => {
                     let imgElement = document.createElement('img')
                     imgElement.className = "header-img";
